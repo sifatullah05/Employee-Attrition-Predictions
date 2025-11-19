@@ -55,14 +55,11 @@ The dataset includes HR variables like:
 - JobSatisfaction  
 - EnvironmentSatisfaction  
 
-*(Add dataset source here if needed.)*
-
----
 
 ## 📈 Model Performance
 
 - Good training and validation accuracy  
-- No major overfitting  
+- No overfitting  
 - Clear accuracy and loss graphs included  
 
 ---
@@ -70,17 +67,9 @@ The dataset includes HR variables like:
 ## 📂 Repository Structure
 
 ```
-├── notebook.ipynb
+├── employee-attrition-predictions.ipynb
 ├── README.md
-└── requirements.txt  (optional)
-```
 
----
-
-## 🔗 Project Links
-
-📁 **Kaggle Notebook:** *Add link here*  
-💻 **GitHub Repo:** *Add link here*
 
 ---
 
@@ -90,11 +79,4 @@ The dataset includes HR variables like:
 - Add SHAP/LIME for explainability  
 - Deploy with Streamlit/Flask  
 - Try other ML models for comparison  
-
----
-
-## 🤝 Contact
-
-Feel free to connect or suggest improvements!  
-I’m always open to feedback and collaboration.
 
